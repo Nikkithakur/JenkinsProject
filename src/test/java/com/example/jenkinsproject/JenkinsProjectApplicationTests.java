@@ -9,6 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class JenkinsProjectApplicationTests {
 
+
 	@Test
 	public void contextLoads() {
 	}
